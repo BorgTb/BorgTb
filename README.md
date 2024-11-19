@@ -1,5 +1,8 @@
 Hola 👋 Soy Agustin
 ========================
+🎓 Computer Science Student from Curicó, Chile.
+📍 Location: Curicó, Chile.
+========================
 
 ### Skills
 

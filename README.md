@@ -1,7 +1,9 @@
 Hi 👋 My name is Agustin
 ========================
-🎓 Computer Science Student from Curicó, Chile.
-📍 Location: Talca, Chile.
+
+🎓 **Computer Science Student** from Curicó, Chile.  
+📍 **Location:** Talca, Chile.  
+
 ========================
 
 ### Skills
